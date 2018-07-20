@@ -1,5 +1,4 @@
-# Table of contents
+# 目录
 
 * [Initial page](README.md)
 * [Setup](setup.md)
-
